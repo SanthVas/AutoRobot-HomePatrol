@@ -14,7 +14,7 @@ Project to build a toy robot indoor patrol car that runs autonomously.
 10. Micro Servo Motor - SG90 
 11. Tools: Screwdriver, Hot glue gun, wire tags
 
-This is a DIY fully autonomous toy car that can move around indoors on its own, avoiding obstacles. Sense of surroundings is achieved by the SR-HC04 ultrasonic SONAR range sensor mounted on a servo motor that sweeps left to right and measures distance constantly in steps. 
+This is a DIY fully autonomous toy car that can move around indoors on its own, avoiding obstacles. Sense of surroundings is achieved by the HC-SR04 ultrasonic SONAR range sensor mounted on a servo motor that sweeps left to right and measures distance constantly in steps. 
 
 Heart of the unit is the Arduino UNO board with a L293D shield mounted on top as it provides a very cheap, easy and integrated solution to drive the DC BO motors along with the Servo motor. 
 
