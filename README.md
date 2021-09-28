@@ -20,4 +20,4 @@ Heart of the unit is the Arduino UNO board with a L293D shield mounted on top as
 
 Check out the wiki page for pictures and the YouTube link below for a short video on how it works.
 
-https://youtu.be/W0pP9iPCJvM 
+https://youtu.be/YcazlbUaNMk 
